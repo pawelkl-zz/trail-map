@@ -45,7 +45,7 @@ To use these, you may want to first set up your laptop with
 Contributing
 ------------
 
-Please see [Contribution Guidelines](/thoughtbot/trail-map/blob/master/trails/CONTRIBUTING.md)
+Please see [Contribution Guidelines](/thoughtbot/trail-map/blob/master/CONTRIBUTING.md)
 
 Credits
 -------
